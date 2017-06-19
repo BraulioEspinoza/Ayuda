@@ -1,0 +1,112 @@
+body{
+    background-image: url('https://s-media-cache-ak0.pinimg.com/originals/da/13/fb/da13fbd38951f74bb9539d20ae1c791f.jpg');
+    background-repeat: no-repeat;
+    background-size: 1500px 1500px;
+
+}
+header{
+    text-align: center;
+    background-color:gray;
+}
+#hiper_nav li{
+    display: inline-block;
+    
+}
+#hiper_nav{
+    padding-top:20px;
+}
+#hiper_nav a{
+    color:white;
+    font-size: 20px;
+}
+#izq{
+    float:left;
+    width:28%;
+    text-align: center;
+    margin-top:200px;
+}
+#der{
+    float:right;
+    width:28%;
+    text-align: center;
+}
+#center h2{
+    text-align:center;
+    color:#802525;
+    background-color:#EE9765 ;
+    padding-bottom:7px ;
+    padding-top: 7px;
+    border-radius: 10%;
+}
+#center{
+    margin-left:35%;
+    margin-right: 35%;
+    background-color: #F1B898;
+    border-radius: 10%;
+    padding: 2px 23px 20px 23px;
+}
+h1{
+    color:red;
+    font-family:Comic Sans MS;
+    text-align: center;
+    margin-top:40px;
+}
+#contacto{
+    border: 3px solid white;
+    font-size:20px; 
+    color:white;
+    background-color: black;
+    text-align: left;
+    padding-left:20px;
+    
+}
+
+#redes img{
+    width:100px; 
+    height: 100px;
+}
+#face{
+    float:left;
+    width:50%;
+}
+#inst{
+    margin-left: 50%;
+}
+#twi img{
+    width:100px; 
+    height: 100px;
+}
+
+#izq p{
+    font-size: 20px;
+}
+#der >img{
+    width:300px;
+    height:300px;
+    border-radius: 200px;
+    overflow: hidden;
+}
+footer{
+    background-color: gray;
+    clear:both;
+}
+
+
+
+#trampa{
+    text-align: center;
+    padding-right: 15px;
+}
+#center a{
+    color:#802525;
+}
+#center label{
+    color:#802525;
+}
+#center input{
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    border: 1px solid #000000;
+    padding: 6px 4px;
+}
